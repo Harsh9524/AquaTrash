@@ -1,6 +1,6 @@
 # AquaTrash
 
-This dataset contains 369 images of Trash used for deep learning. The images are taken from the TACO Dataset. 
+This dataset contains 369 images of Trash used for deep learning. Each image is manually labelled by our team for accurate detections making a total of 470 bounding boxes. There are total 4 classes {(0: glass), (1:paper), (2:metal), (3:plastic)}
 
 # Usage
 1. Each image stored in the images folder has one or more labelled bounding boxes. 
