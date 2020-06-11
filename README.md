@@ -11,6 +11,16 @@ This dataset contains 369 images of Trash used for deep learning. The images are
 
 
 
+<div align="center">
+  <div class="column">
+    <img src="https://raw.githubusercontent.com/wiki/pedropro/TACO/images/1.png" width="17%" hspace="3">
+    <img src="https://raw.githubusercontent.com/wiki/pedropro/TACO/images/2.png" width="17%" hspace="3">
+    <img src="https://raw.githubusercontent.com/wiki/pedropro/TACO/images/3.png" width="17%" hspace="3">
+    <img src="https://raw.githubusercontent.com/wiki/pedropro/TACO/images/4.png" width="17%" hspace="3">
+    <img src="https://raw.githubusercontent.com/wiki/pedropro/TACO/images/5.png" width="17%" hspace="3">
+  </div>
+</div>
+</br>
 
 The images are licensed under CC BY 4.0 License by Pedro F Proença and Pedro Simões.
 Visit  @ [tacodataset.org](http://tacodataset.org) for more information.
