@@ -13,7 +13,7 @@ This dataset contains 369 images of Trash used for deep learning. The images are
 
 
 The images are licensed under CC BY 4.0 License by Pedro F Proença and Pedro Simões.
-Visit https://www.tacodataset.org for more information.
+Visit  @ [tacodataset.org](http://tacodataset.org) for more information.
 ```
 Both the images and annotations provided by this dataset are all under free copyright licences.
 While the annotations are licenced under CC BY 4.0, images may be under different specific public 
