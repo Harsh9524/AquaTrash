@@ -1,5 +1,5 @@
 # AquaVision
-Please refer to my research paper for more information https://doi.org/10.1016/j.cscee.2020.100026
+Official dataset for my research paper "AquaVision: Automating the detection of waste in water bodies using deep transfer learning" https://doi.org/10.1016/j.cscee.2020.100026
 
 # AquaTrash
 
