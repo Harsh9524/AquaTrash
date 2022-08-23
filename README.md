@@ -1,5 +1,8 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aquavision-automating-the-detection-of-waste/object-detection-on-aquatrash)](https://paperswithcode.com/sota/object-detection-on-aquatrash?p=aquavision-automating-the-detection-of-waste)
+[![harshpanwar](https://img.shields.io/twitter/follow/harsh__panwar?style=social)](https://mobile.twitter.com/harsh__panwar)
+
 # AquaVision
-Official dataset for my research paper "AquaVision: Automating the detection of waste in water bodies using deep transfer learning" https://doi.org/10.1016/j.cscee.2020.100026
+Official dataset introduced in the paper [AquaVision: Automating the detection of waste in water bodies using deep transfer learning](https://doi.org/10.1016/j.cscee.2020.100026)
 
 # AquaTrash
 
